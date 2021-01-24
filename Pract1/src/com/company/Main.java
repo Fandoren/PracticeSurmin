@@ -1,11 +1,14 @@
 package com.company;
 
+import java.util.*;
+
 public class Main {
 
+
     public static void main(String[] args) {
-        int[] array = new int[]{1, 2, 3, 4, 5};
-        for (int i = 0; i < array.length; i++) {
-            System.out.println(array[i]);
-        }
+        SortedSet<Integer> set = new TreeSet<>();
+        for (int i = 0; i < 10; i++)
+            set.add(i);
+        
     }
 }
