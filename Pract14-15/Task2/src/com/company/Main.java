@@ -47,8 +47,8 @@ public class Main extends Applet implements ActionListener{
         return Color.white;
     }
     public static void main(String[] args) {
-        JFrame frame = new JFrame ("Пример");
-        int width = 800;
+        JFrame frame = new JFrame ("СурминАГ");
+        int width = 300;
         int height = 300;
         Main appl = new Main();
         appl.init();

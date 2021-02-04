@@ -46,21 +46,35 @@ public class Main extends Canvas{
             clear = false;
         } else if(!word.equals(""))
         {
-            if(word.equals("red")){
-                g.setColor(Color.red);
-                g.drawString(word, ex, ey);
+            if(word.equals("cross")){
+                g.drawLine(0, 0, getWidth(), getHeight());
+                g.drawLine(0, getHeight(), getWidth(), 0);
                 word = "";
             }
-            else if(word.equals("blue")){
-                g.setColor(Color.blue);
-                g.drawString(word, ex, ey);
+            else if(word.equals("oval")){
+                g.drawOval(0, 0, getWidth()-1, getHeight()-1);
                 word = "";
             }
-            else if(word.equals("black"))
-            {
-                g.setColor(Color.black);
-                g.drawString(word, ex, ey);
+            else if(word.equals("step")){
+                for (int i=0; i<4; i++) {
+                    for (int j=0; j<4; j++) {
+                        int c = (int)((i+j)*255/6);
+                        g.setColor(new Color(c, c, c));
+                        g.fillRect(i*getWidth()/4, j*getHeight()/4, getWidth()/4, getHeight()/4);
+                    }
+                }
                 word = "";
+            }
+            else if(word.equals("rect")){
+                Color c = new Color(
+                        (int)(Math.random()*255),
+                        (int)(Math.random()*255),
+                        (int)(Math.random()*255));
+                g.setColor(c);
+                g.fillRect(0, 0, getWidth(), getHeight());
+            }
+            else if(word.equals("q")) {
+                g.setClip(null);
             }
             else {
                 g.drawString(word, ex, ey);
