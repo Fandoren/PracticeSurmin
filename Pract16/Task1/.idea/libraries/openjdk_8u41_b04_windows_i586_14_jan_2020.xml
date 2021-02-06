@@ -1,0 +1,40 @@
+<component name="libraryTable">
+  <library name="openjdk-8u41-b04-windows-i586-14_jan_2020">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../openjdk-8u41-b04-windows-i586-14_jan_2020" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../../openjdk-8u41-b04-windows-i586-14_jan_2020/java-se-8u41-ri/demo/applets/ArcTest" />
+      <root url="file://$PROJECT_DIR$/../../../openjdk-8u41-b04-windows-i586-14_jan_2020/java-se-8u41-ri/demo/applets/BarChart" />
+      <root url="file://$PROJECT_DIR$/../../../openjdk-8u41-b04-windows-i586-14_jan_2020/java-se-8u41-ri/demo/applets/Blink" />
+      <root url="file://$PROJECT_DIR$/../../../openjdk-8u41-b04-windows-i586-14_jan_2020/java-se-8u41-ri/demo/applets/CardTest" />
+      <root url="file://$PROJECT_DIR$/../../../openjdk-8u41-b04-windows-i586-14_jan_2020/java-se-8u41-ri/demo/applets/Clock" />
+      <root url="file://$PROJECT_DIR$/../../../openjdk-8u41-b04-windows-i586-14_jan_2020/java-se-8u41-ri/demo/applets/DitherTest" />
+      <root url="file://$PROJECT_DIR$/../../../openjdk-8u41-b04-windows-i586-14_jan_2020/java-se-8u41-ri/demo/applets/DrawTest" />
+      <root url="file://$PROJECT_DIR$/../../../openjdk-8u41-b04-windows-i586-14_jan_2020/java-se-8u41-ri/demo/applets/Fractal" />
+      <root url="file://$PROJECT_DIR$/../../../openjdk-8u41-b04-windows-i586-14_jan_2020/java-se-8u41-ri/demo/applets/GraphicsTest" />
+      <root url="file://$PROJECT_DIR$/../../../openjdk-8u41-b04-windows-i586-14_jan_2020/java-se-8u41-ri/demo/applets/MoleculeViewer" />
+      <root url="file://$PROJECT_DIR$/../../../openjdk-8u41-b04-windows-i586-14_jan_2020/java-se-8u41-ri/demo/applets/NervousText" />
+      <root url="file://$PROJECT_DIR$/../../../openjdk-8u41-b04-windows-i586-14_jan_2020/java-se-8u41-ri/demo/applets/SimpleGraph" />
+      <root url="file://$PROJECT_DIR$/../../../openjdk-8u41-b04-windows-i586-14_jan_2020/java-se-8u41-ri/demo/applets/SortDemo" />
+      <root url="file://$PROJECT_DIR$/../../../openjdk-8u41-b04-windows-i586-14_jan_2020/java-se-8u41-ri/demo/applets/SpreadSheet" />
+      <root url="file://$PROJECT_DIR$/../../../openjdk-8u41-b04-windows-i586-14_jan_2020/java-se-8u41-ri/demo/applets/WireFrame" />
+      <root url="file://$PROJECT_DIR$/../../../openjdk-8u41-b04-windows-i586-14_jan_2020/java-se-8u41-ri/demo/nio/zipfs" />
+      <root url="file://$PROJECT_DIR$/../../../openjdk-8u41-b04-windows-i586-14_jan_2020/java-se-8u41-ri/sample/annotations/DependencyChecker/PluginChecker/src" />
+      <root url="file://$PROJECT_DIR$/../../../openjdk-8u41-b04-windows-i586-14_jan_2020/java-se-8u41-ri/sample/annotations/DependencyChecker/Plugins/src" />
+      <root url="file://$PROJECT_DIR$/../../../openjdk-8u41-b04-windows-i586-14_jan_2020/java-se-8u41-ri/sample/annotations/Validator/src" />
+      <root url="file://$PROJECT_DIR$/../../../openjdk-8u41-b04-windows-i586-14_jan_2020/java-se-8u41-ri/sample/forkjoin/mergesort" />
+      <root url="file://$PROJECT_DIR$/../../../openjdk-8u41-b04-windows-i586-14_jan_2020/java-se-8u41-ri/sample/jmx/jmx-scandir/src" />
+      <root url="file://$PROJECT_DIR$/../../../openjdk-8u41-b04-windows-i586-14_jan_2020/java-se-8u41-ri/sample/jmx/jmx-scandir/test" />
+      <root url="file://$PROJECT_DIR$/../../../openjdk-8u41-b04-windows-i586-14_jan_2020/java-se-8u41-ri/sample/lambda/BulkDataOperations/src" />
+      <root url="file://$PROJECT_DIR$/../../../openjdk-8u41-b04-windows-i586-14_jan_2020/java-se-8u41-ri/sample/lambda/DefaultMethods" />
+      <root url="file://$PROJECT_DIR$/../../../openjdk-8u41-b04-windows-i586-14_jan_2020/java-se-8u41-ri/sample/nio/chatserver" />
+      <root url="file://$PROJECT_DIR$/../../../openjdk-8u41-b04-windows-i586-14_jan_2020/java-se-8u41-ri/sample/nio/file" />
+      <root url="file://$PROJECT_DIR$/../../../openjdk-8u41-b04-windows-i586-14_jan_2020/java-se-8u41-ri/sample/nio/multicast" />
+      <root url="file://$PROJECT_DIR$/../../../openjdk-8u41-b04-windows-i586-14_jan_2020/java-se-8u41-ri/sample/nio/server" />
+      <root url="file://$PROJECT_DIR$/../../../openjdk-8u41-b04-windows-i586-14_jan_2020/java-se-8u41-ri/sample/scripting/scriptpad/src" />
+      <root url="file://$PROJECT_DIR$/../../../openjdk-8u41-b04-windows-i586-14_jan_2020/java-se-8u41-ri/sample/try-with-resources/src" />
+    </SOURCES>
+  </library>
+</component>
