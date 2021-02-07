@@ -43,8 +43,8 @@ public class Main extends Applet {
                 // если вышли за пределы, то сброс на новое слов
                 if (loc.x > frame.getWidth() || loc.y > frame.getHeight() || loc.x < 0 || loc.y < 0) {
                     lbl.setLocation(frame.getWidth()/2, frame.getHeight()/2); // встаю примерно по центру окна
-                    speedX = -10+rnd.nextInt(10); // задаю случайную скорость
-                    speedY = -10+rnd.nextInt(10); // задаю случайную скорость
+                    speedX = -15+rnd.nextInt(10); // задаю случайную скорость
+                    speedY = -15+rnd.nextInt(10); // задаю случайную скорость
                     lbl.setText(strings.get(rnd.nextInt(strings.size()-1))); // задаю случайную строку
                 } else {
                     lbl.setLocation(loc.x + speedX, loc.y + speedY); // свдигаю лейбл с заданной скоростью
